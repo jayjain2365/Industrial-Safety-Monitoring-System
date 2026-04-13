@@ -112,5 +112,6 @@ WHY THIS PROJECT?
 - Provides safety automation
 - Scalable for industrial applications
 
-AUTHOR:
+AUTHOR
+
 Jay Jain | Dhruvi Chavda | Kanchan Kumari
