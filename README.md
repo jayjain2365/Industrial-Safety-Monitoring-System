@@ -114,4 +114,4 @@ WHY THIS PROJECT?
 
 AUTHORS
 
-Jay Jain | Dhruvi Chavda | Kanchan Kumari
+Jay Jain 
